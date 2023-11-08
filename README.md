@@ -1,4 +1,4 @@
-![Tests](https://github.com/zerotier/ztchooks-py/actions/workflows/python.yml/badge.svg)
+![Tests](https://github.com/zerotier/ztchooks-py/actions/workflows/python.yaml/badge.svg)
 
 
 # ZTC Hooks for Python3
