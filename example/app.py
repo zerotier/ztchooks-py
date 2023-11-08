@@ -1,5 +1,5 @@
 from flask import Flask, request, Response
-from hook import verify_hook_signature
+from ztchooks.hook import verify_hook_signature
 from datetime import timedelta
 
 app = Flask(__name__)
