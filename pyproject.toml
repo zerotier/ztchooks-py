@@ -1,0 +1,14 @@
+[project]
+name = "ztchooks"
+version = "0.0.1"
+description = "ZeroTier Hook Verification for Python 3"
+license = { file = "LICENSE" }
+classifiers = [
+    "Programing Language :: Python :: 3",
+    "License :: OSI Approved :: Mozilla Public License v2.0",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/zerotier/ztchooks-py"
+"Bug Tracker" = "https://github.com/zerotier/ztchooks-py/issues"
